@@ -1,0 +1,24 @@
+{
+    "name": "LIndoorMap",
+    "version": "1.0.0",
+    "description": "Leaflet Indoor Fork",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GopherJ/LIndoorMap.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GopherJ/LIndoorMap/issues"
+    },
+    "homepage": "https://github.com/GopherJ/LIndoorMap#readme",
+    "dependencies": {
+        "@turf/turf": "^5.1.6",
+        "leaflet": "1.6.0"
+    }
+}
